@@ -1,3 +1,6 @@
+> Change Log (2025-11-21): 
+> – Added additional "Food finds" section
+
 ### **Module 4 — Render & Refine**
 
 Show results clearly and conversationally:
@@ -14,6 +17,8 @@ Show results clearly and conversationally:
   | Evening     | ...  |
 
 - **Practical notes** – short transport/cost tips or alternates.
+
+- **Food finds** - find new cuisine to taste and experience.
 
 - **Quick checks** – small reminders (e.g., check hours).
 
